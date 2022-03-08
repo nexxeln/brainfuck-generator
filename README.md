@@ -15,14 +15,14 @@
 
 - Clone the repository: `git clone https://github.com/nexxeln/brainfuck-generator`
 - cd into the directory and run:
-  - Windows: `python brainfuck_generator.py`
-  - Linux: `python3 brainfuck_generator.py`
-  - MacOS: `python3 brainfuck_generator.py`
+  - Windows: `python text_to_bf.py`
+  - Linux: `python3 text_to_bf.py`
+  - MacOS: `python3 text_to_bf.py`
 - The output brainfuck code will be printed to the console
 - Specify a file name to save the code to a file:
-  - Windows: `python brainfuck_generator.py output.bf`
-  - Linux: `python3 brainfuck_generator.py output.bf`
-  - MacOS: `python3 brainfuck_generator.py output.bf`
+  - Windows: `python text_to_bf.py output.bf`
+  - Linux: `python3 text_to_bf.py output.bf`
+  - MacOS: `python3 text_to_bf.py output.bf`
 - Run the code here: <https://copy.sh/brainfuck/>
 
 ## Contributing
