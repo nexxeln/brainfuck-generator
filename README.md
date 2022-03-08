@@ -21,7 +21,8 @@
 - The output brainfuck code will be printed to the console
 - Specify a file name to save the code to a file:
   - Windows: `python brainfuck_generator.py output.bf`
-  - Linux: `python3 brainfuck_generator.py output
+  - Linux: `python3 brainfuck_generator.py output.bf`
+  - MacOS: `python3 brainfuck_generator.py output.bf`
 - Run the code here: <https://copy.sh/brainfuck/>
 
 ## Contributing
