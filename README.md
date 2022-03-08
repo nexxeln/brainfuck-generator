@@ -17,12 +17,12 @@
 - cd into the directory and run:
   - Windows: `python brainfuck_generator.py`
   - Linux: `python3 brainfuck_generator.py`
-  - MacOs: `python3 brainfuck_generator.py`
+  - MacOS: `python3 brainfuck_generator.py`
 - The output brainfuck code will be printed to the console
 - Specify a file name to save the code to a file:
   - Windows: `python brainfuck_generator.py output.bf`
-  - Linux: `python3 brainfuck_generator.py output.bf`
-  - MacOs: `python3 brainfuck_generator.py output.bf`
+  - Linux: `python3 brainfuck_generator.py output
+- Run the code here: <https://copy.sh/brainfuck/>
 
 ## Contributing
 
